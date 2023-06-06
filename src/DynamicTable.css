@@ -1,0 +1,21 @@
+.buttons {
+    margin-top: 16px;
+    display: flex;
+    justify-content: flex-left;
+  }
+  
+  .add-row-btn {
+    margin-right: 10px;
+  }
+  
+  .generate-btn {
+    /* background-color: #333 !important;    */
+    background-color: greenyellow important;
+    color: white; 
+  }
+  
+  .generate-btn:hover{
+    color: white !important;
+    background-color: blue important;
+
+  }
